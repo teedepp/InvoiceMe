@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593729215871",
+    "project_id": "invoice-me-app",
+    "storage_bucket": "invoice-me-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593729215871:android:ac9367e3a9ee8879488e4a",
+        "android_client_info": {
+          "package_name": "com.teedee.invoiceme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYY6HXzYZJAyVo9WXTe7no21pn0jxDL-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
